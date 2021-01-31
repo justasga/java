@@ -1,3 +1,5 @@
+package P04;
+
 public class P04Pirmas {
 
     public static void main(String[] args) {

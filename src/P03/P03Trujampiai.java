@@ -1,3 +1,5 @@
+package P03;
+
 public class P03Trujampiai {
     public static void main(String[] args) {
 

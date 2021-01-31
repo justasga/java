@@ -1,3 +1,5 @@
+package P04;
+
 public class P04antras {
 
     public static void main(String[] args) {
